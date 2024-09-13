@@ -14,3 +14,21 @@ Fortigate API erişimi
 EDR aracı (örneğin, edr-tool)
 Elasticsearch (SIEM için)
 
+Dosya Yapısı
+main.py: Projeyi çalıştıran ana Python scripti.
+fortigate.py: Fortigate ile IP engelleme işlemlerini yöneten script.
+edr.py: EDR sistemine uç nokta analizlerini başlatan script.
+ml_model.py: Makine öğrenimi ile anomali tespiti yapan script.
+log_si.py: Loglama ve SIEM entegrasyonunu yapan script.
+requirements.txt: Gerekli Python kütüphanelerini belirten dosya.
+Katkıda Bulunma
+Her türlü geri bildirim, hata raporu veya katkıda bulunma tekliflerinizi memnuniyetle karşılıyorum. Lütfen GitHub Issues bölümünden sorunlarınızı bildirin veya katkıda bulunmak için bir pull request oluşturun.
+
+Lisans
+Bu proje MIT Lisansı altında lisanslanmıştır.
+
+İletişim
+Sorularınız veya işbirliği teklifleriniz için benimle iletişime geçebilirsiniz:
+
+E-posta
+sercandomac@gmail.com
