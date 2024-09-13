@@ -14,10 +14,3 @@ Fortigate API erişimi
 EDR aracı (örneğin, edr-tool)
 Elasticsearch (SIEM için)
 
----------
-git clone https://github.com/sercanDomac/ML-Fortigate-EDR-Integration
-cd apt-detection-solution
----------
-
-pip install -r requirements.txt
-----------
