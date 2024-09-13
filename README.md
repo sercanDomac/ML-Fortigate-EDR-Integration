@@ -1,4 +1,6 @@
+
 APT Detection Solution
+
 Proje Açıklaması
 APT Detection Solution, gelişmiş sürekli tehditleri (APT'ler) tespit etmek ve savunmak için makine öğrenimi, Fortigate güvenlik duvarı entegrasyonu ve EDR (Endpoint Detection and Response) sistemlerini bir araya getiren kapsamlı bir güvenlik çözümüdür. Bu proje, gerçek zamanlı ağ trafiğini izleyerek anormal davranışları tespit eder, şüpheli IP adreslerini otomatik olarak engeller ve uç nokta güvenliğini sağlar.
 
