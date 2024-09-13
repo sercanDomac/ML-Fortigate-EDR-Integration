@@ -1,0 +1,7 @@
+Gerekli Kütüphaneler
+
+torch
+requests
+subprocess
+logging
+elasticsearch
